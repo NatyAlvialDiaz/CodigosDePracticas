@@ -53,10 +53,6 @@ public class TipoCertamen1 {
         } while (opcion.equals("si"));
 
 
-
-
-
-
     }
     public static int calcularValor(String prevision){
         int valor=0,monto=25000;
